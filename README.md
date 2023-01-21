@@ -1,5 +1,5 @@
 # proxy-checker
-## what does it DO?
+## What does it DO?
 This script is like a detective, it goes through a list of suspects (proxies) and attempts to connect to a website (the crime scene) using each suspect. If it finds the guilty suspect (proxy) that can connect to the website, it will say "I cracked the case!" and the loop will end. But if none of the suspects are guilty, it will say "This case remains unsolved." and the script will end. It's like solving a mystery but for your network connections.
 
 
